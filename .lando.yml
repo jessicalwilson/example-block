@@ -1,0 +1,4 @@
+name: mdg-hiring-test
+recipe: wordpress
+config:
+  webroot: .
