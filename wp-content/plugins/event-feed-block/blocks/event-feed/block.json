@@ -1,0 +1,15 @@
+{
+    "name": "acf/event-feed",
+    "title": "Event Feed",
+    "description": "A custom event feed block.",
+    "style": [ "file:./event-block.css" ],
+    "category": "formatting",
+    "icon": "smiley",
+    "keywords": ["events", "feed"],
+    "acf": {
+        "renderTemplate": "event-feed.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}

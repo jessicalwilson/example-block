@@ -1,0 +1,29 @@
+.events-feed {
+    margin: 4rem auto;
+}
+
+.events-feed__inner {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+    justify-content: center;
+}
+
+.event {
+    max-width: 450px;
+}
+
+.event__meta {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.view-all-events {
+    display: block;
+    margin-top: 2.5rem;
+}
+
+.is-content-justification-center  {
+    justify-content: center;
+}
